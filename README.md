@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm YEKINI AKANHO Bello
+Full-Stack Developer | Software Engineer | Problem Solver
+10+ years of experience building software, solving complex problems, and turning ideas into reliable digital products.
+I'm YEKINI AKANHO Bello, a passionate Full-Stack Developer with more than 10 years of experience in software development.
 
-<!--
-**yekini2803/yekini2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy understanding how things work under the hood, designing clean solutions, writing maintainable code, and transforming business requirements into efficient digital experiences.
 
-Here are some ideas to get you started:
+My approach to development is built around three principles:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Think deeply — understand the problem before writing the solution.
+
+⚙️ Build efficiently — write clean, scalable and maintainable code.
+
+🚀 Keep learning — technology evolves, and so do I.
+
+I consider myself a problem solver before being a programmer. Languages and frameworks are tools; understanding the architecture and solving the right problem are what matter most.
+
