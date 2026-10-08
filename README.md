@@ -16,12 +16,17 @@ My approach to development is built around three principles:
 I consider myself a problem solver before being a programmer. Languages and frameworks are tools; understanding the architecture and solving the right problem are what matter most.
 
 🧑‍💻 About Me
-Name        : YEKINI AKANHO Bello
+Name        : YEKINI AKANHO Bello 
+
 Role        : Full-Stack Developer
+
 Experience  : 10+ Years
 Focus       : Software Engineering & Web Development
+
 Mindset     : Clean Code • Performance • Scalability • Continuous Learning
+
 Location    : Benin 🇧🇯
+
 I have experience working across different layers of software development, from low-level programming and system logic to modern web development and user interfaces.
 
 I particularly enjoy projects where I can combine logic, architecture, performance and creativity.
