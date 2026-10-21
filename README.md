@@ -1,4 +1,4 @@
-#Bienvenue
+## Bienvenue
 Je suis Développeur Full Stack Web & Mobile spécialisé dans la création d'applications évolutives, de plateformes SaaS et de solutions intelligentes. En dehors du code, je suis passionné de Lecture , de religion et d'animés.<br><br>Mon objectif est de transformer des problèmes métiers complexes en solutions logicielles modernes, performantes et sécurisées.<br><br>Je développe principalement :<br><br>Plateformes SaaS modernes<br>Applications web performantes<br>Applications mobiles multiplateformes<br>Systèmes de gestion métier<br>Tableaux de bord analytiques<br>Je suis passionné par :<br><br>Architecture logicielle<br>Développement Front-End<br>Développement Back-End<br>Intelligence Artificielle<br>Agents IA<br><br>Ma vision du développement :<br><br>Un excellent logiciel combine une architecture solide, une expérience utilisateur fluide, une excellente qualité de code et une vraie réponse aux besoins des utilisateurs.<br><br>
 
 
